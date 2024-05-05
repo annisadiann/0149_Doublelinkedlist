@@ -214,7 +214,8 @@ int main()
             cout << "6. Exit" << endl;
             cout << "\nEnter your choice (1-6) : " << endl;
 
-        
+            char ch;
+            cin >> ch;
            
         }
         catch (exception& e)
