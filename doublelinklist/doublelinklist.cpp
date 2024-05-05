@@ -77,7 +77,7 @@ bool search(int rollNo, Node** previous, Node** current)
         *current = (*current)->next;
     }
     return (*current != NULL);
-}
+} 
  
 
 int main()  
